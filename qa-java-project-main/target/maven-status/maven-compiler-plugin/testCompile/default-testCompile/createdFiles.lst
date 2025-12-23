@@ -1,0 +1,15 @@
+tests/BaseTest$1.class
+helpers/UserGenerator$UserData.class
+tests/LogoutTest.class
+tests/NavigationTest.class
+pages/ForgotPasswordPage.class
+pages/ProfilePage.class
+tests/BaseTest.class
+pages/RegisterPage.class
+pages/MainPage.class
+helpers/UserGenerator$1.class
+tests/LoginTest.class
+tests/RegisterTest.class
+pages/LoginPage.class
+helpers/UserGenerator.class
+tests/ConstructorTest.class
