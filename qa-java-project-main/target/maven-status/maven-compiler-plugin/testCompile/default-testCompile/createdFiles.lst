@@ -1,0 +1,6 @@
+tests/UserUpdateTest.class
+tests/UserOrdersTest.class
+tests/UserCreationTest.class
+tests/OrderCreationTest.class
+tests/BaseTest.class
+tests/UserLoginTest.class
